@@ -7,13 +7,6 @@ iNeuron Project - Swiggy Data Analysis, automated EDA &amp; reports, Visualizing
 
 <p align="center">
 
-  [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-  
-  ![GitHub stars](https://img.shields.io/github/stars/Lokesh-Attarde/Swiggy_Data_Analysis)
-  ![GitHub forks](https://img.shields.io/github/forks/Lokesh-Attarde/Swiggy_Data_Analysis)
-  [![GitHub contributors](https://img.shields.io/github/contributors/Lokesh-Attarde/Swiggy_Data_Analysis.svg)](https://GitHub.com/Lokesh-Attarde/Swiggy_Data_Analysis/graphs/contributors/)
-  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 </p>  
 
 <p align="center">
@@ -65,15 +58,11 @@ Out of the 5 features given in the datasets 2 are Continuous and 3 (including th
 ![Tools Used](https://user-images.githubusercontent.com/84115928/154200410-86eb19e2-acd5-4669-8b36-ff958363ed2b.JPG)
 
 
-# 🌱 Some Exciting Glimpse of the Visuals:
-![Glimpse 1](https://user-images.githubusercontent.com/84115928/154206516-055a61ba-cf80-48c9-bae5-1b0a98fae6c4.gif)
-![Glimpse 2](https://user-images.githubusercontent.com/84115928/154207666-81d7b700-bfd1-4cd0-950c-f521e615ac0e.gif)
-![Glimpse 3](https://user-images.githubusercontent.com/84115928/154216904-325c33c5-bace-484b-b4d7-974a5146a3ca.png)
 
 For more details, please go through the Demo given below -
 # 🎯 Swiggy Data Analysis Project Video -
 
-https://user-images.githubusercontent.com/84115928/154216541-ab894ba2-7760-47cc-89e2-5275dac3b643.mp4
+
 
 # 💡 Conclusions
 
@@ -95,22 +84,21 @@ https://user-images.githubusercontent.com/84115928/154216541-ab894ba2-7760-47cc-
     •	In Koramangala Area, "Chinese" Cuisines are dominated by around '10.3%' followed by "North Indian" & "South Indian" Cuisines '9.66%' & '7.59%' Restaurants respectively.
     •	Furthermore, we have also been analyzed Cheapest/Expensive & Highest Rated Restaurants with Approx. Cost for 2 People and many more. 
 
-Please Go through [Swiggy Data Analysis - DPR.pptx](https://github.com/Lokesh-Attarde/Swiggy_Data_Analysis/files/8077260/Swiggy.Data.Analysis.-.DPR.pptx) for more info.
+Please Go through [Swiggy Data Analysis - DPR.pptx](https://github.com/dineshshelke005/Swiggy_Data_Analysis/blob/main/Documents/Swiggy%20Data%20Analysis%20-%20DPR.pdf) for more info.
 
 # 📖 Documentation
 
-[High Level Documentation](https://github.com/Lokesh-Attarde/Swiggy_Data_Analysis/blob/05d0091a03a0d8b6467df1be21c91af1ac626ad8/Documents/Swiggy%20Data%20Analysis%20-%20HLD.pdf)
+[High Level Documentation](https://github.com/dineshshelke005/Swiggy_Data_Analysis/blob/main/Documents/Swiggy%20Data%20Analysis%20-%20HLD.pdf)
 
-[Low Level Documentation](https://github.com/Lokesh-Attarde/Swiggy_Data_Analysis/blob/05d0091a03a0d8b6467df1be21c91af1ac626ad8/Documents/Swiggy%20Data%20Analysis%20-%20LLD.pdf)
+[Low Level Documentation](https://github.com/dineshshelke005/Swiggy_Data_Analysis/blob/main/Documents/Swiggy%20Data%20Analysis%20-%20LLD%20(1).pdf)
 
-[Architecture Documentation](https://github.com/Lokesh-Attarde/Swiggy_Data_Analysis/blob/05d0091a03a0d8b6467df1be21c91af1ac626ad8/Documents/Swiggy%20Data%20Analysis%20-%20Architecture.pdf)
+[Architecture Documentation](https://github.com/dineshshelke005/Swiggy_Data_Analysis/blob/main/Documents/Swiggy%20Data%20Analysis%20-%20Architecture.pdf)
 
-[WireFrame](https://github.com/Lokesh-Attarde/Swiggy_Data_Analysis/blob/05d0091a03a0d8b6467df1be21c91af1ac626ad8/Documents/Swiggy%20Data%20Analysis%20-%20Wireframe.pdf)
+[WireFrame](https://github.com/dineshshelke005/Swiggy_Data_Analysis/blob/main/Documents/Swiggy%20Data%20Analysis%20-%20Wireframe.pdf)
 
-[Detail Project Report](https://github.com/Lokesh-Attarde/Swiggy_Data_Analysis/files/8077260/Swiggy.Data.Analysis.-.DPR.pptx)
+[Detail Project Report](https://github.com/dineshshelke005/Swiggy_Data_Analysis/blob/main/Documents/Swiggy%20Data%20Analysis%20-%20DPR.pdf)
 
 # 🎉 Help Me Improve
 Hello Mr. Reader, if you find any bug or anything else that could add more value in this project then please consider raising it to me I will address them asap.
   
-# 📫 Feedback
-If you have any feedback, please reach out to me via [LinkedIn](https://www.linkedin.com/in/lokesh-attarde-145086141/)
+
