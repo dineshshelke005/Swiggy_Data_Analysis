@@ -58,12 +58,6 @@ Out of the 5 features given in the datasets 2 are Continuous and 3 (including th
 ![Tools Used](https://user-images.githubusercontent.com/84115928/154200410-86eb19e2-acd5-4669-8b36-ff958363ed2b.JPG)
 
 
-
-For more details, please go through the Demo given below -
-# 🎯 Swiggy Data Analysis Project Video -
-
-
-
 # 💡 Conclusions
 
     In this analysis project, we have been analyzed several different use cases for the given dataset t o make better business decisions and help analyze customer trends and satisfaction, which can lead to new and better products and services. It has been found that – 
